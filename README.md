@@ -80,6 +80,7 @@ O CRUD são operacões que realizamos constantemente no backend, cada letra tem 
   - [ ] Nome completo
   - [ ] E-mail
   - [ ] Senha
+- [ ] Utitlize as boas práticas para salvar os dados do nosso "banco de dados"
 - [ ] Criar as seguintes rotas, sendo que cada rota é responsável por realizar uma operação do CRUD e deve retornar um json.
 
 | Rota             | Tipo       | Operação     | Resposta                                                               |                       
