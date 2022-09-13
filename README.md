@@ -54,6 +54,9 @@ npm i express
 
 Dica: Para conseguir realizar o desafio, pesquisar por `error 404 express` ou `como tratar error 404 no express`.
 
+Dica 2: Criar o arquivo `.gitignore` e adicionar a `node_modules`dentro dela, para que esta pasta não suba para o github
+
+Dica 3: Instale o nodemon para não precisar ficar reiniciando o servidor toda hora.
 ### Estudos complementares 
 [Documentação oficial do Express JS](https://expressjs.com/pt-br/);
 

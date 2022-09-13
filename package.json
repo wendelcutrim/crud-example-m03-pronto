@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/wendelcutrim/crud-example-m03-pronto/issues"
   },
-  "homepage": "https://github.com/wendelcutrim/crud-example-m03-pronto#readme"
+  "homepage": "https://github.com/wendelcutrim/crud-example-m03-pronto#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
