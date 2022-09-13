@@ -1,0 +1,22 @@
+{
+  "name": "example-crud-m03-pronto",
+  "version": "1.0.0",
+  "description": "O objetivo desta aula é demonstrar de forma básica como funciona um CRUD utilizando o express e métodos HTTP.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendelcutrim/crud-example-m03-pronto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendelcutrim/crud-example-m03-pronto/issues"
+  },
+  "homepage": "https://github.com/wendelcutrim/crud-example-m03-pronto#readme"
+}

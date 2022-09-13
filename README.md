@@ -25,8 +25,9 @@ npm init -y
 
 ### Estudos complementares sobre criação de servidor com métodos nativos do node:
 
-[Node.js HTTP module - w3Schools](https://www.w3schools.com/nodejs/nodejs_http.asp)
-[Documentação oficial do Node.js](https://nodejs.org/api/http.html#httpcreateserveroptions-requestlistener)
+- [Node.js HTTP module - w3Schools](https://www.w3schools.com/nodejs/nodejs_http.asp)
+
+- [Documentação oficial do Node.js](https://nodejs.org/api/http.html#httpcreateserveroptions-requestlistener)
 
 #
 
